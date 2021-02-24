@@ -3,7 +3,7 @@
 ## 1st day: Fundamentals of React
 These were the technologies used in class
 
-- ✔ Rea track overview
+- ✔ React track overview
 - ✔ One-stream API
 - ✔ What is React
 - ✔ Why TypeScript
