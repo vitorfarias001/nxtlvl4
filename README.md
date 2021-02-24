@@ -1,3 +1,20 @@
+
+## WHAT I LEARNED
+## 1st day: Fundamentals of React
+These were the technologies used in class
+
+- ✔ Rea track overview
+- ✔ One-stream API
+- ✔ What is React
+- ✔ Why TypeScript
+- ✔ Creating a Project with ReactJS
+- ✔ Components
+- ✔ Properties
+- ✔ Status
+- ✔ Configuring external source
+- ✔ Global states
+- ✔ ExperienceBar components
+--------------------------------------
 ## O QUE APRENDI
 ## 1º dia : Fundamentos do React
 Essas foram as tecnologias utilizadas na aula 
